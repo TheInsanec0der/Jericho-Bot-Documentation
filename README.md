@@ -98,6 +98,7 @@ Example* :-
 ---
 
 ### **Supportive Links**
+>- **Next Page** : [ Link ](./Utility.md)
 >- **Instagram** : [ **Profile Link** ](https://www.instagram.com/jerichobot/)
 >- **Discord Server** : [ **Server Link** ](https://discord.gg/MfME24sJ2a)
 >- **Invite Link** : [ **Invite me** ](https://dsc.gg/jerichobot)
