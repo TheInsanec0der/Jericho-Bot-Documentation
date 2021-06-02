@@ -1,25 +1,16 @@
-# Home Page
+# Home
 
-## Getting Super Powers
+## Welcome to Jericho v0.4.6
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
+Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Player , Suggestion Logger , A.I. Chatting , Mod Mail , Announcement Creator .
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ Current Documentation Page Supports Jericho v0.4.6 and Will be Updated within 2 Days with latest Version if any .
 {% endhint %}
 
-Once you're strong enough, save the world:
+#### Libraries used :
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+* Main npm Package - `discord.js v12.5.3`
 
 
 
