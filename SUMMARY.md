@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Home](README.md)
+* [Getting Started](README.md)
 
-## Commands Category
+## Documentation <a id="documention"></a>
 
-* [Categories](commands-category/categories.md)
+* [Home](documention/home.md)
+* [Category List](documention/categories.md)
 

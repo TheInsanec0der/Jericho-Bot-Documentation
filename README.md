@@ -1,4 +1,4 @@
-# Home
+# Getting Started
 
 ## Jericho v0.4.6 Documentation
 
