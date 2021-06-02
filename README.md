@@ -17,7 +17,7 @@ Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Playe
 * ⚒ Certified by - **`14+ Famous Botlists`**
 * ⚒ Commands - **`400+ Commands`**
 * ⚒**`Discord Verified Bot`**
-* ⚒ Feature Sections - **`6+ Sections`**
+* ⚒ Bot Feature Sections - **`6+ Sections`**
 
 
 
