@@ -8,7 +8,7 @@ Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Playe
  Current Documentation Page Supports Jericho v0.4.6 and Will be Updated within 2 Days with latest Version if any .
 {% endhint %}
 
-#### Main Components :
+#### **Main Components :**
 
 * ⚒ Main npm Package/Library - **`discord.js v12.5.3`**
 * ⚒ 
