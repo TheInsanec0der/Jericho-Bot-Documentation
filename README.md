@@ -11,7 +11,10 @@ Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Playe
 #### **Main Components :**
 
 * ⚒ Main npm Package/Library - **`discord.js v12.5.3`**
-* ⚒ 
+* ⚒ Database Used - **`Mysql Database`**
+* ⚒ Bot Hosted Location - **`U.S.A`**
+* ⚒ Average Uptime - **`24/7`**
+* ⚒ Certified by - **`14+ Famous Botlists`**
 
 
 
