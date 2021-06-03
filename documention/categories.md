@@ -14,7 +14,7 @@ description: >-
 
 > _These Commands helps Servers/Users to Perform Specific Tasks like being Productive , Making Life Easier Works . Tools to Refine/Build a Good Server into a Perfect Shape ._
 
-1. [x] **Game Server Status**
+1. [x] **260+ Games Server Status**
 2. [x] **Announcement Creator**
 3. [x] **Suggestion Logger**
 4. [x] **Mod Mail**
@@ -54,7 +54,7 @@ description: >-
 
 ### Staff/Developers Commands
 
->
+> These Area is Private for Staffs of Jericho can't be accessed by Other People . And all Sensitive Commands are Safe and Denied Access to Other Users . And Staffs/Executives are very trusted for Jericho's Project .
 
 * [x] **Data Inspection**
 * [x] **Data Checker**
@@ -62,7 +62,11 @@ description: >-
 * [x] **Emergency Data Eraser \( Safe \)**
 * [x] **Emergency Server Data Eraser \( Safe \)**
 
-\*\*\*\*
+{% hint style="warning" %}
+**Jericho never Shares your Data to anyone , It can be Deleted or Edited by You ! Your Data is Secured within Our Safe hands !**
+{% endhint %}
 
+### Moderation Commands
 
+> Jericho can Moderate/Protect Your Server from Various Threats
 
