@@ -5,5 +5,5 @@
 ## Documentation <a id="documention"></a>
 
 * [Home](documention/home.md)
-* [Category List](documention/categories.md)
+* [Categories](documention/categories.md)
 
