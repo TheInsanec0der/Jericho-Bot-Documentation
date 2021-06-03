@@ -54,7 +54,7 @@ description: >-
 
 ### Staff/Developers Commands
 
-> These Area is Private for Staffs of Jericho can't be accessed by Other People . And all Sensitive Commands are Safe and Denied Access to Other Users . And Staffs/Executives are very trusted for Jericho's Project .
+> _These Area is Private for Staffs of Jericho can't be accessed by Other People . And all Sensitive Commands are Safe and Denied Access to Other Users . And Staffs/Executives are very trusted for Jericho's Project ._
 
 * [x] **Data Inspection**
 * [x] **Data Checker**
