@@ -83,5 +83,5 @@ description: >-
 
 ### 🛡Permissions Logs
 
->
+> You can see Permissions Required for Jericho to Perform Certain Commands in a Server/Channel .
 
