@@ -1,16 +1,19 @@
 ---
 description: >-
   Jericho's Command Categories will be Listed here . And You can Choose which
-  one to Explore and Learn about it .
+  one to Explore and Learn about it .Jericho's Command Categories will be Listed
+  here .
 ---
 
 # Categories
+
+## ☢ Commands Categories
 
 {% hint style="warning" %}
 **Category Doesn't mean Main Commands , Jericho's Large Commands has been Divided into Few Sub-Sections for understand them better with Categories .**
 {% endhint %}
 
-###  🛡 Utilities Commands
+###  🛡 Utilities
 
 > _These Commands helps Servers/Users to Perform Specific Tasks like being Productive , Making Life Easier Works . Tools to Refine/Build a Good Server into a Perfect Shape ._
 
@@ -25,7 +28,7 @@ description: >-
 9. [ ] **Tournament/Scrims Manager**
 10. [ ] **News/Updates Announcer**
 
-### 🛡**Entertainment Commands**
+### 🛡**Entertainment** 
 
 > ****_Jericho can serve a High Quality Music with 24/7 Active Feature and Now it Supports Stage Channel too . Public Stage Channel is still on Development . But it will be Supported within 1 Month ._
 
@@ -33,7 +36,7 @@ description: >-
 * [ ] **24/7 Radio Player**
 * [ ] **Youtube/Twitch Television**
 
-### 🛡Jericho's Commands
+### 🛡Jericho's Personals
 
 > _Jericho has some Commands which meant to Dealt with Jericho only and its not with any Discord Server . It's like Personal Commands ._
 
@@ -43,7 +46,7 @@ description: >-
 * [x] **Upvote Command**
 * [x] **Stats Command**
 
-### 🛡Fun/Misc Commands
+### 🛡Fun/Misc
 
 > _Ever heard of Publishing of Memes to Publish in Leaderboard or Watch some Cool Memes , Fun with Friends with some Random weird Commands . Well here is the Chance to Prank ._
 
@@ -52,7 +55,7 @@ description: >-
 * [ ] **Hug/Slap and Other Small Commands**
 * [ ] **Random Facts/Search/News Commands**
 
-### 🛡Staff/Developers Commands
+### 🛡Staff/Developers
 
 > _These Area is Private for Staffs of Jericho can't be accessed by Other People . And all Sensitive Commands are Safe and Denied Access to Other Users . And Staffs/Executives are very trusted for Jericho's Project ._
 
@@ -66,7 +69,7 @@ description: >-
 **Jericho never Shares your Data to anyone , It can be Deleted or Edited by You ! Your Data is Secured within Our Safe hands !**
 {% endhint %}
 
-### 🛡Moderation Commands
+### 🛡Moderations
 
 > _Jericho can Moderate/Protect Your Server from Various Threats .  With More Cool Features like Moderating / Logging / Managing the Discord Server  . But Right it's Under Development ._
 
@@ -76,5 +79,9 @@ description: >-
 * [ ] **Member's Checker**
 * [ ] **Criminal Catcher**
 
+## ☢ Extra Categories
 
+### 🛡Permissions Logs
+
+>
 
