@@ -7,3 +7,7 @@
 * [Home](documention/home.md)
 * [Categories](documention/categories.md)
 
+## Commands
+
+* [Utilities](commands/utilities.md)
+

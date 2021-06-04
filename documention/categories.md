@@ -1,8 +1,8 @@
 ---
 description: >-
   Jericho's Command Categories will be Listed here . And You can Choose which
-  one to Explore and Learn about it .Jericho's Command Categories will be Listed
-  here .
+  one to Explore and Learn about it . Jericho's Command Categories will be
+  Listed here .
 ---
 
 # Categories
