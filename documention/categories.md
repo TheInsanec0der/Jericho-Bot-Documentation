@@ -89,7 +89,19 @@ description: >-
 
 > _You can find Tutorials Related to Jericho and Currently its in Season - 1 , Hope you Find Some Good and Helpful Fact/Knowledge about Jericho ._
 
-### 🛡Tutorial Logs
+### 🛡Partners
 
+> _Wonder You saw any Partners of Jericho , Who are helping Jericho grow fast and Providing Backend Support like Hosts , Databases , Monetary Supports and e.t.c ._
 
+### 🛡Updates/Change-Logs
+
+> Wanna know some Info about Recent OR Old Updates , then Watch for Correct Version and get the gist about it .
+
+### 🛡Short - Privacy Policies
+
+> We know Privacy Policy are very Big , But Jericho can help you out explaining the Main Theme of our Aim and Measures for Data Protection .
+
+### 🛡Botlists
+
+> Jericho with
 
