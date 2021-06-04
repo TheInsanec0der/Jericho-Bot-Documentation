@@ -79,9 +79,15 @@ description: >-
 * [ ] **Member's Checker**
 * [ ] **Criminal Catcher**
 
-## ☢ Extra Categories
+## ☢ Extra Categories in Help Command Panel
 
 ### 🛡Permissions Logs
 
-> You can see Permissions Required for Jericho to Perform Certain Commands in a Server/Channel .
+> _You can see Permissions Required for Jericho to Perform Certain Commands in a Server/Channel ._
+
+### 🛡Tutorial Logs
+
+>
+
+
 
