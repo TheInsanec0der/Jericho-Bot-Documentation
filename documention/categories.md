@@ -87,7 +87,9 @@ description: >-
 
 ### 🛡Tutorial Logs
 
->
+> _You can find Tutorials Related to Jericho and Currently its in Season - 1 , Hope you Find Some Good and Helpful Fact/Knowledge about Jericho ._
+
+### 🛡Tutorial Logs
 
 
 
