@@ -8,5 +8,9 @@
 dc!status setup
 ```
 
+![This indicates that the setup is started successfully!!](../.gitbook/assets/screenshot-2021-06-05-105456.png)
 
+{% hint style="info" %}
+Jericho will ask certain questions, which are to be directly answered as text no prefix is required.
+{% endhint %}
 
