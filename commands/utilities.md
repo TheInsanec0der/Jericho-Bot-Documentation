@@ -1,3 +1,7 @@
+---
+description: Jericho Utility to make your Server Function Easier and beautiful
+---
+
 # Utilities
 
 ### 📺 260+ Game server status
@@ -13,4 +17,12 @@ dc!status setup
 {% hint style="info" %}
 Jericho will ask certain questions, which are to be directly answered as text no prefix is required.
 {% endhint %}
+
+### 📢 Announcement Creator
+
+### ✏️ Suggestion Logger
+
+### 🤖 ModMail
+
+### 😀 Reaction Roles
 
