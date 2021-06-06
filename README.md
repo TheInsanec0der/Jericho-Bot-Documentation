@@ -1,3 +1,7 @@
+---
+description: New to Jericho ? This page is perfect for you!
+---
+
 # Getting Started
 
 ## Jericho v0.4.6 Documentation
