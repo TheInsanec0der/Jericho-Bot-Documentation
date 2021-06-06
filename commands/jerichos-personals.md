@@ -1,5 +1,5 @@
 ---
-description: Jericho's Personal Commands Subscription and Many More..
+description: Jericho's Personal Commands Subscription and Many More...
 ---
 
 # Jericho's Personals

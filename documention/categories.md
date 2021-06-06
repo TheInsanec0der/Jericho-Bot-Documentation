@@ -1,8 +1,8 @@
 ---
 description: >-
-  Jericho's Command Categories will be Listed here . And You can Choose which
+  Jericho's Command Categories will be listed here . And you can choose which
   one to Explore and Learn about it . Jericho's Command Categories will be
-  Listed here .
+  listed here.
 ---
 
 # Categories
@@ -10,7 +10,7 @@ description: >-
 ## ☢ Commands Categories
 
 {% hint style="warning" %}
-**Category Doesn't mean Main Commands , Jericho's Large Commands has been Divided into Few Sub-Sections for understand them better with Categories .**
+**Category Doesn't mean Main Commands , Jericho's Large Commands have been Divided into A Few Sub-Sections to understand them better with Categories .**
 {% endhint %}
 
 ###  🛡 Utilities
@@ -66,7 +66,7 @@ description: >-
 * [x] **Emergency Server Data Eraser \( Safe \)**
 
 {% hint style="warning" %}
-**Jericho never Shares your Data to anyone , It can be Deleted or Edited by You ! Your Data is Secured within Our Safe hands !**
+**Jericho never Shares your Data with anyone , It can be Deleted or Edited by You ! Your Data is Secured within Our Safe hands !**
 {% endhint %}
 
 ### 🛡Moderations
