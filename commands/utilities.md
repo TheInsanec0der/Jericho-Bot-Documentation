@@ -49,11 +49,11 @@ dc!status <On/OFF> <Slot-Number/all>
 {% endhint %}
 
 {% hint style="success" %}
-**260+ Games are Supported like -**  _**`Minecraft , Rust , Fivem , Halo , C.S G.O. , Valheim , e.t.c`**_ **And for Minecraft with Two Types of Server Version is** _`Minecraft Java`_ **and** _`Minecraft Bedrock .`_ **And You can Games Supported by using Command - `dc!status games`**_`.`_
+**260+ Games are Supported like -**  _**`Minecraft , Rust , Fivem , Halo , C.S G.O. , Valheim , e.t.c`**_ **And for Minecraft with Two Types of Server Version is** _`Minecraft Java`_ **and** _`Minecraft Bedrock .`_ **And You can Games Supported by using Command -** _**`dc!status games`**`.`_
 {% endhint %}
 
 {% hint style="warning" %}
-**More Commands can be Found at  -`dc!status help`**
+**More Commands can be Found at  -**_**`dc!status help`**_
 {% endhint %}
 
 ### 📢 Announcement Creator
