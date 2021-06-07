@@ -16,7 +16,7 @@ description: >-
 {% endhint %}
 
 {% tabs %}
-{% tab title="Status Setup" %}
+{% tab title="Setup Status" %}
 ```text
 dc!status setup
 ```
@@ -24,7 +24,7 @@ dc!status setup
 ![This indicates that the setup is started successfully](../.gitbook/assets/screenshot-2021-06-05-105456.png)
 {% endtab %}
 
-{% tab title="Status Edit" %}
+{% tab title="Edit Status" %}
 ```
 dc!status edit <Slot-Number>
 ```
@@ -32,7 +32,7 @@ dc!status edit <Slot-Number>
 ![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
 {% endtab %}
 
-{% tab title="Status Delete" %}
+{% tab title="Delete Status" %}
 ```
 dc!status delete <Slot-Number/all>
 ```
@@ -40,7 +40,7 @@ dc!status delete <Slot-Number/all>
 ![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
 {% endtab %}
 
-{% tab title="Status Turn On/OFF" %}
+{% tab title="Turn On/OFF" %}
 ```
 dc!status <On/OFF> <Slot-Number/all>
 ```
@@ -72,6 +72,18 @@ dc!status <hide/unhide> <Slot-Number/all>
 ### 📢 Announcement Creator
 
 > _Jerich0 can send Announcements , Updates , Reports in the way of embed . You can even Customize your Way of Announcing and Even Select which Role to Ping for it . Jericho is a very Powerful and a Ultimate Tool when its time for Announcing something fancy Topic ._
+
+{% hint style="danger" %}
+_You can Announce Anything But If you Post anything Related to **`NSFW`** ,_ **`Jericho and her Staff's are not Responsible`** _for it ._ 
+{% endhint %}
+
+{% tabs %}
+{% tab title="Setup Announcement" %}
+```text
+dc!announce setup
+```
+{% endtab %}
+{% endtabs %}
 
 ### ✏️ Suggestion Logger
 
