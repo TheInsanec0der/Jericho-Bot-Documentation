@@ -62,7 +62,7 @@ dc!status <hide/unhide> <Slot-Number/all>
 {% endtabs %}
 
 {% hint style="warning" %}
-**260+ Games are Supported like -** _**Minecraft , Rust , Fivem , Halo , C.S G.O. , Valheim , e.t.c.**_  **And for Minecraft with Two Types of Server Version is** _`Minecraft Java`_ **and** _`Minecraft Bedrock .`_ **And You can Games Supported by using Command -** _**`dc!status games`**`.`_
+**260+ Games are Supported like -** _**Minecraft , Rust , Fivem , Halo , C.S G.O. , Valheim , e.t.c.**_  **And for Minecraft with Two Types of Server Version is** _`Minecraft Java`_ **and** _`Minecraft Bedrock .`_ **And You can See Games List Supported by Jericho , using Command -** _**`dc!status games`**`.`_
 {% endhint %}
 
 {% hint style="info" %}
