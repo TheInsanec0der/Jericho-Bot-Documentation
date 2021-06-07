@@ -27,6 +27,10 @@ dc!music <stop> <force/Blank>
 ```
 dc!music skip <position/blank> <force/blank>
 ```
+
+{% hint style="warning" %}
+**Position means the Track Number at Queue and can be found by -** **`dc!music queue`**
+{% endhint %}
 {% endtab %}
 
 {% tab title="Search in Youtube" %}
@@ -45,21 +49,21 @@ dc!music fav <blank/queue>
 ```
 dc!music fav play <Song ID/all>
 ```
+
+{% hint style="success" %}
+**You can Find your Favourite Songs List by -** **`dc!music fav list`**
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-**Position means the Track Number at Queue and can be found by -** **`dc!music queue`**
-{% endhint %}
-
 ![Glimpse of Stage-Channel Support](../.gitbook/assets/1%20%281%29.png)
 
-### 💫 Music Player \(Without logging Feature\)
+### 💫 Music Player \(Without Logging Feature\)
 
 💨 This section is very simple if you just want to play a `single song or a playlist`.   
-💨 It plays music from YouTube with the support of links from `Spotify , YouTube and SoundCloud.`
+💨 It plays music from YouTube with the support of links from `Spotify , YouTube and SoundCloud` and Many more Platforms Depends on **Compatibility.**
 
-### 💫 Music Player \(With logging Feature\)
+### 💫 Music Player \(With Logging Feature\)
 
 💨 This section is for those people who want to go more into enjoying the music without the effort to write the prefix again and again. Simply set up once and sit back and enjoy your favorite tracks. 
 
