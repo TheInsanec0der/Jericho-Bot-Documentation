@@ -14,8 +14,6 @@ description: >-
 **`<Slot-Number>` present on Footer of the Game Server Status .**
 {% endhint %}
 
-![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
-
 {% tabs %}
 {% tab title="Status Setup" %}
 ```text
@@ -29,18 +27,32 @@ dc!status setup
 ```
 dc!status edit <Slot-Number>
 ```
+
+![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
 {% endtab %}
 
 {% tab title="Status Delete" %}
 ```
 dc!status delete <Slot-Number/all>
 ```
+
+![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
 {% endtab %}
 
 {% tab title="Status Turn On/OFF" %}
 ```
 dc!status <On/OFF> <Slot-Number/all>
 ```
+
+![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
+{% endtab %}
+
+{% tab title="Hide/Un-Hide Status" %}
+```text
+dc!status <hide/unhide> <Slot-Number/all>
+```
+
+![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 
