@@ -6,12 +6,13 @@
 
 * [Home](documention/home.md)
 * [Categories](documention/categories.md)
+* [Change-Logs](documention/changelogs.md)
 
 ## Commands
 
 * [Utilities](commands/utilities.md)
 * [Entertainment](commands/entertainment.md)
-* [Jericho's Personals](commands/jerichos-personals.md)
+* [Personals](commands/personals.md)
 * [Fun / Misc](commands/fun.md)
 * [Staff / Developers](commands/staff.md)
 * [Moderation](commands/moderation.md)

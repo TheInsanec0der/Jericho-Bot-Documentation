@@ -2,7 +2,7 @@
 description: Jericho's Personal Commands Subscription and Many More...
 ---
 
-# Jericho's Personals
+# Personals
 
 ### ⚡ Subscription Command
 
