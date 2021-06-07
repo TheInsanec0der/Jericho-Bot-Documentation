@@ -13,3 +13,9 @@
 * [Entertainment](commands/entertainment.md)
 * [Jericho's Personals](commands/jerichos-personals.md)
 
+## TROUBLESHOOTING
+
+* [Unable to Invite ?](troubleshooting/unable-to-invite.md)
+* [FAQ](troubleshooting/faq.md)
+* [Get Support](troubleshooting/get-support.md)
+

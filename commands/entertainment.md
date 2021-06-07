@@ -54,12 +54,12 @@ dc!music fav play <Song ID/all>
 
 ![Glimpse of Stage-Channel Support](../.gitbook/assets/1%20%281%29.png)
 
-### Music Player \(Without logging Feature\)
+### 💫 Music Player \(Without logging Feature\)
 
 💨 This section is very simple if you just want to play a `single song or a playlist`.   
 💨 It plays music from YouTube with the support of links from `Spotify , YouTube and SoundCloud.`
 
-### Music Player \(With logging Feature\)
+### 💫 Music Player \(With logging Feature\)
 
 💨 This section is for those people who want to go more into enjoying the music without the effort to write the prefix again and again. Simply set up once and sit back and enjoy your favorite tracks. 
 
