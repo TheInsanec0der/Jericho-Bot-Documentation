@@ -1,5 +1,7 @@
 ---
-description: Jericho Utility to make your Server Function Easier and beautiful
+description: >-
+  Tools/Credentials for Making some Cool Stuff , Helping you to make the Discord
+  Server Amazing and Help you out with Features except Moderation .
 ---
 
 # Utilities
