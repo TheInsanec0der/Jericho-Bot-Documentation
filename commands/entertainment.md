@@ -49,7 +49,7 @@ dc!music fav play <Song ID/all>
 {% endtabs %}
 
 {% hint style="warning" %}
-**Position means the Track Number at Queue and can be found by -** `dc!music queue`
+**Position means the Track Number at Queue and can be found by -** **`dc!music queue`**
 {% endhint %}
 
 ![Glimpse of Stage-Channel Support](../.gitbook/assets/1%20%281%29.png)

@@ -42,5 +42,3 @@ Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Playe
 **Help Command Panel -`dc!help`**
 {% endhint %}
 
-
-
