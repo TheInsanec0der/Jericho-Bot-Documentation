@@ -75,13 +75,34 @@ dc!music setup
 
 The setup process is quite simple.  
 Just type the **above command** and hit Enter.  
-Join a **Voice Channel** where you want the Jericho to be `24/7 Active`. After Joining the Voice Channel , Write `Done` and It will be Saved . After that , For Setting up **Logger Channel** \( `Music Player U.I.` \) , Mention a Text Channel like - `<#Channel-Name>` where you want to set up the logging feature.
+Join a **Voice Channel** where you want the Jericho to be **`24/7 Active`**. After Joining the Voice Channel , Write `Done` and It will be Saved . After that , For Setting up **Logger Channel** \( **`Music Player U.I.`** \) , Mention a Text Channel like - **`<#Channel-Name>`** where you want to set up the logging feature.
 
 ![Glimpse of Music-Player U.I.](../.gitbook/assets/1.png)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Edit 24/7 Music Player" %}
+```text
+dc!music edit <Voice/Channel>
+```
 
+**Here,  
+Voice - `Voice Channel`  
+Channel - `Music Logger Channel (Music Player U.I.)`**
+
+**After that Jericho will ask for `New Voice/Music-logger-Channel` for the Server.**
+{% endtab %}
+
+{% tab title="Delete 24/7 Music Player" %}
+```text
+dc!music delete <Voice/Channel/all>
+```
+
+**Here,  
+Voice - `Voice Channel`  
+Channel - `Music Logger Channel (Music Player U.I.)`   
+all - `Delete All Configs for the Server`**
+
+**After that Jericho will Delete for `New Voice/Music-logger-Channel` for the Server.**
 {% endtab %}
 {% endtabs %}
 
