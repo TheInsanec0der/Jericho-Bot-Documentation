@@ -12,6 +12,15 @@
 * [Utilities](commands/utilities.md)
 * [Entertainment](commands/entertainment.md)
 * [Jericho's Personals](commands/jerichos-personals.md)
+* [Fun / Misc](commands/fun.md)
+* [Staff / Developers](commands/staff.md)
+* [Moderation](commands/moderation.md)
+
+## Additional Information <a id="additional-informations"></a>
+
+* [Permissions Logger](additional-informations/permissions.md)
+* [Partners](additional-informations/partners.md)
+* [Tutorials](additional-informations/tutorials.md)
 
 ## TROUBLESHOOTING
 
