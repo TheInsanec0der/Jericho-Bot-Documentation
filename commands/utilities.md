@@ -22,6 +22,10 @@ dc!status setup
 ```
 
 ![This indicates that the setup is started successfully](../.gitbook/assets/screenshot-2021-06-05-105456.png)
+
+{% hint style="success" %}
+**Jericho will ask certain questions, which are to be directly answered as text no prefix is required.**
+{% endhint %}
 {% endtab %}
 
 {% tab title="Edit Status" %}
@@ -56,10 +60,6 @@ dc!status <hide/unhide> <Slot-Number/all>
 ![Slot-Number Present as Number at Every Footer of the Game Server Status and is Unique .](../.gitbook/assets/1%20%282%29.png)
 {% endtab %}
 {% endtabs %}
-
-{% hint style="success" %}
-**Jericho will ask certain questions, which are to be directly answered as text no prefix is required.**
-{% endhint %}
 
 {% hint style="warning" %}
 **260+ Games are Supported like -** _**Minecraft , Rust , Fivem , Halo , C.S G.O. , Valheim , e.t.c.**_  **And for Minecraft with Two Types of Server Version is** _`Minecraft Java`_ **and** _`Minecraft Bedrock .`_ **And You can Games Supported by using Command -** _**`dc!status games`**`.`_
