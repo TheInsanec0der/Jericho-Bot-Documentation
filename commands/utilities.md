@@ -85,7 +85,7 @@ dc!announce setup
 {% endtab %}
 {% endtabs %}
 
-## ✏️ Suggestion Loggger
+### ✏️ Suggestion Logger
 
 ![This is the result of your suggestion. ](../.gitbook/assets/rsz_1screenshot_371.png)
 
@@ -95,7 +95,9 @@ dc!announce setup
 _You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ **`Jericho and her Staff's are not Responsible`** _for it ._
 {% endhint %}
 
-### 🤖 ModMail
+### 🤖 Mod-Mail
+
+#### 🛡 Server Commands
 
 {% tabs %}
 {% tab title="Setup" %}
@@ -118,6 +120,8 @@ dc!modmail close <reason> or u can leave it blank
 ![](../.gitbook/assets/capture2.png)
 {% endtab %}
 {% endtabs %}
+
+#### 👨✈ User Commands
 
 ### 😀 Reaction Roles
 
