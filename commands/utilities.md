@@ -114,6 +114,8 @@ dc!modmail <Server ID>
 ```text
 dc!modmail close <reason> or u can leave it blank
 ```
+
+![](../.gitbook/assets/capture2.png)
 {% endtab %}
 {% endtabs %}
 
