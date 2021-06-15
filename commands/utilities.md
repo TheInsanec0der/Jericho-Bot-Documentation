@@ -95,6 +95,16 @@ dc!announce setup
 _You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ **`Jericho and her Staff's are not Responsible`** _for it ._
 {% endhint %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### 🤖 Mod-Mail
 
 #### 🛡 Server Commands
