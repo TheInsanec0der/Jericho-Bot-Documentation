@@ -85,9 +85,19 @@ dc!announce setup
 {% endtab %}
 {% endtabs %}
 
-### ✏️ Suggestion Logger
+## ✏️ Suggestion Loggger
+
+![This is the result of your suggestion ](../.gitbook/assets/rsz_1screenshot_371.png)
+
+> _Jericho can submit your suggestions that u like to suggest for your server and make your server better , you can also reply the suggestions to give the suggester a legit answer and u can vote with `yes` or `no` for others opinions that is it good or bad for your server._
+
+{% hint style="danger" %}
+_You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ **`Jericho and her Staff's are not Responsible`** _for it ._
+{% endhint %}
 
 ### 🤖 ModMail
+
+>
 
 ### 😀 Reaction Roles
 
