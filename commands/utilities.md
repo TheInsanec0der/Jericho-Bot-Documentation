@@ -122,20 +122,40 @@ dc!modmail edit
 
 {% tab title="Status" %}
 ```
+dc!modmail status <ON/OFF>
+```
+{% endtab %}
 
+{% tab title="" %}
+```
+
+```
+{% endtab %}
+{% endtabs %}
+
+#### 👨✈ Glimpse Of Features
+
+{% tabs %}
+{% tab title="Pause " %}
+```text
+dc!modmail pause <reason/blank>
+```
+{% endtab %}
+
+{% tab title="Resume" %}
+```text
+dc!modmail resume <reason/blank>
 ```
 {% endtab %}
 
 {% tab title="Close " %}
-```text
-dc!modmail close <reason/Blank>
 ```
-
-![](../.gitbook/assets/capture2.png)
+dc!modmail close <reason/blank>
+```
 {% endtab %}
 {% endtabs %}
 
-#### 👨✈ User Commands
+![](../.gitbook/assets/capture2.png)
 
 ### 😀 Reaction Roles
 
