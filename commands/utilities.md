@@ -105,7 +105,7 @@ _You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ *
 dc!modmail <Server ID>
 ```
 
-![This is the result after u use this command](../.gitbook/assets/capture.png)
+![This is the result after  you use this command](../.gitbook/assets/capture.png)
 {% endtab %}
 
 {% tab title="Delete" %}
@@ -123,12 +123,6 @@ dc!modmail edit
 {% tab title="Status" %}
 ```
 dc!modmail status <ON/OFF>
-```
-{% endtab %}
-
-{% tab title="" %}
-```
-
 ```
 {% endtab %}
 {% endtabs %}
@@ -154,8 +148,6 @@ dc!modmail close <reason/blank>
 ```
 {% endtab %}
 {% endtabs %}
-
-![](../.gitbook/assets/capture2.png)
 
 ### 😀 Reaction Roles
 
