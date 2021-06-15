@@ -87,7 +87,7 @@ dc!announce setup
 
 ## ✏️ Suggestion Loggger
 
-![This is the result of your suggestion ](../.gitbook/assets/rsz_1screenshot_371.png)
+![This is the result of your suggestion. ](../.gitbook/assets/rsz_1screenshot_371.png)
 
 > _Jericho can submit your suggestions that u like to suggest for your server and make your server better , you can also reply the suggestions to give the suggester a legit answer and u can vote with `yes` or `no` for others opinions that is it good or bad for your server._
 
@@ -97,7 +97,25 @@ _You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ *
 
 ### 🤖 ModMail
 
->
+{% tabs %}
+{% tab title="Setup" %}
+```text
+dc!modmail <Server ID>
+```
+
+![This is the result after u use this command](../.gitbook/assets/capture.png)
+{% endtab %}
+
+{% tab title="Reply " %}
+![This is what u will get when your server staffs will reply.](../.gitbook/assets/capture-1.png)
+{% endtab %}
+
+{% tab title="Close " %}
+```text
+dc!modmail close <reason> or u can leave it blank
+```
+{% endtab %}
+{% endtabs %}
 
 ### 😀 Reaction Roles
 
