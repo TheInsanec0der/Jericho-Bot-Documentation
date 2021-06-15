@@ -125,6 +125,12 @@ dc!modmail edit
 dc!modmail status <ON/OFF>
 ```
 {% endtab %}
+
+{% tab title="Close " %}
+```
+dc!modmail close
+```
+{% endtab %}
 {% endtabs %}
 
 #### 👨✈ Glimpse Of Features
