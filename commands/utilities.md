@@ -100,7 +100,7 @@ _You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ *
 #### 🛡 Server Commands
 
 {% tabs %}
-{% tab title="Setup" %}
+{% tab title="Submit" %}
 ```text
 dc!modmail <Server ID>
 ```
@@ -108,13 +108,27 @@ dc!modmail <Server ID>
 ![This is the result after u use this command](../.gitbook/assets/capture.png)
 {% endtab %}
 
-{% tab title="Reply " %}
-![This is what u will get when your server staffs will reply.](../.gitbook/assets/capture-1.png)
+{% tab title="Delete" %}
+```text
+dc!modmail delete
+```
+{% endtab %}
+
+{% tab title="Edit" %}
+```
+dc!modmail edit
+```
+{% endtab %}
+
+{% tab title="Status" %}
+```
+
+```
 {% endtab %}
 
 {% tab title="Close " %}
 ```text
-dc!modmail close <reason> or u can leave it blank
+dc!modmail close <reason/Blank>
 ```
 
 ![](../.gitbook/assets/capture2.png)
