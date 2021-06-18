@@ -96,11 +96,13 @@ _You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ *
 {% endhint %}
 
 {% tabs %}
-{% tab title="First Tab" %}
-
+{% tab title="Setup" %}
+```text
+dc!suggest setup
+```
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="" %}
 
 {% endtab %}
 {% endtabs %}
