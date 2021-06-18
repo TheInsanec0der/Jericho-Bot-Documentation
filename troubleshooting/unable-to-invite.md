@@ -6,26 +6,40 @@ description: >-
 
 # Unable to Invite ?
 
-## Getting Super Powers
+### I Just about to add Jericho Why can't I see my server in the list!
 
-Becoming a super hero is a fairly straight forward process:
+![The page should look like this](../.gitbook/assets/unknown.png)
 
-```
-$ give me super-powers
-```
+### Check Your Account - is that correct ?
+
+Many people use alternate accounts for Discord , so check twice whether the account you'r logged into is correct.  
+
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+You can click the `Not you?` text to log out of the current account.
 {% endhint %}
 
-Once you're strong enough, save the world:
+### Do you have the correct permissions to add a bot to your desired server ?
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+Once you have ensured the account you are logged into is correct and is in the desired server.  
+Check for permissions - To add a bot you need `MANAGE SERVER` permissions or you can have `ADMINISTRATOR` which overrides all other permissions. 
 
+> Server owners have all the permission in their server.
 
+{% hint style="info" %}
+Quick Tip 🎈  
+If you can change the name of your server you have the required permissions.
+{% endhint %}
+
+### Still unable to Add Jericho 🙁
+
+#### Try the steps below.
+
+1. Try clearing the cache of your browser or some other browser. This can be done by `Ctrl + Shift + R` in Chorme browser.
+2. Try Private/Incognito mode.
+3. Check whether your Discord account is verified or not. 
+
+## Issue still not fixed ?
+
+Have a look at STATUS
 
