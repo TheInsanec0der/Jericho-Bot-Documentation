@@ -41,5 +41,6 @@ If you can change the name of your server you have the required permissions.
 
 ## Issue still not fixed ?
 
-Have a look at STATUS
+Have a look at [Discord Status Page ](https://discordstatus.com/)for any outages.  
+Or you may join the [Support Server](https://discord.gg/V5M92k4zhN) to check if there is something going on. 
 
