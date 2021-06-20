@@ -6,7 +6,7 @@
 
 * [Home](documention/home.md)
 * [Categories](documention/categories.md)
-* [Change-Logs](documention/changelogs.md)
+* [Change Logs](documention/changelogs.md)
 
 ## Commands
 

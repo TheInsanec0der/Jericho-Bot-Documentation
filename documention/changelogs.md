@@ -2,7 +2,7 @@
 description: This page will have all the latest patch-notes of Jericho Bot.
 ---
 
-# Change-Logs
+# Change Logs
 
 ###  💫 **Jericho v0.4.5 - 30/5/21**
 
