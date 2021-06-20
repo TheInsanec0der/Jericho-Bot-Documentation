@@ -1,15 +1,24 @@
 # Permissions Logger
 
-## 🔒 PERMISSION MENU
+## ☢ PERMISSIONS MENU
 
-1.   **Basic/Normal Commands**
-2.  **Announcement Command**
-3.  **Avatar Commands**
-4.  **A.I. Chatting**
-5.  **Mod-Mail Commands**
-6.  **Music Player Commands**
-7.  **Reaction Roles Commands**
-8.  **Suggestion Logger Commands**
+### \*\*\*\*🌈 **Basic/Normal Commands**
+
+* **`Send Messages`**
+
+### **Announcement Command**
+
+### **Avatar Commands**
+
+### **A.I. Chatting**
+
+### **Mod-Mail Commands**
+
+### **Music Player Commands**
+
+### **Reaction Roles Commands**
+
+### **Suggestion Logger Commands**
 
 
 
