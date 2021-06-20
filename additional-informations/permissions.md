@@ -2,7 +2,7 @@
 
 ## ☢ PERMISSIONS MENU
 
-### \*\*\*\*🌈 **Basic/Normal Commands**
+### **Basic/Normal Commands**
 
 * **`Send Messages`**
 * **`Use External Emojis`**
