@@ -95,6 +95,8 @@ dc!announce setup
 _You can Suggest Anything But If you Suggest anything Related to **`NSFW`** ,_ **`Jericho and her Staff's are not Responsible`** _for it ._
 {% endhint %}
 
+####  🎲 Server Commands
+
 {% tabs %}
 {% tab title="Setup" %}
 ```text
@@ -102,8 +104,58 @@ dc!suggest setup
 ```
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="Delete" %}
+```text
+dc!suggest delete 
+```
+{% endtab %}
 
+{% tab title="Config Check" %}
+```text
+dc!suggest check Server
+```
+{% endtab %}
+
+{% tab title="Review" %}
+```text
+dc!suggest check Server
+```
+{% endtab %}
+
+{% tab title="Edit" %}
+```text
+dc!suggest edit
+```
+{% endtab %}
+
+{% tab title="Close/Open Logs" %}
+```text
+dc!suggest status <ON/OFF>
+```
+{% endtab %}
+{% endtabs %}
+
+
+
+#### 🧩 User Commands
+
+{% tabs %}
+{% tab title=" Submit" %}
+```text
+dc!suggest submit
+```
+{% endtab %}
+
+{% tab title="Check Records" %}
+```text
+dc!suggest records
+```
+{% endtab %}
+
+{% tab title="Check Status" %}
+```text
+dc!suggest check <Suggestion ID>
+```
 {% endtab %}
 {% endtabs %}
 
@@ -167,5 +219,38 @@ dc!modmail close <reason/blank>
 {% endtab %}
 {% endtabs %}
 
-### 😀 Reaction Roles
+## 😀 Reaction Roles
+
+#### There Are Two Types of Config :-
+
+1. Auto : Jericho will Give the Description and in - future you can also Edit/Delete.
+2. Manual : You can Write your Own Message or Any Other Bot's Message , Just Mention the Message ID.
+
+#### ✨ Commands
+
+{% tabs %}
+{% tab title="Setup" %}
+```text
+dc!reactions setup <auto/manual>
+```
+{% endtab %}
+
+{% tab title="Delete" %}
+```text
+dc!reactions delete <Message ID/all>
+```
+{% endtab %}
+
+{% tab title="Edit" %}
+```text
+dc!reactions edit <Message ID>
+```
+{% endtab %}
+
+{% tab title="Check" %}
+```text
+dc!reactions check <Message ID/all>
+```
+{% endtab %}
+{% endtabs %}
 
