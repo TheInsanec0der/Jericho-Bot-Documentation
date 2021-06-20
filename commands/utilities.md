@@ -135,8 +135,6 @@ dc!suggest status <ON/OFF>
 {% endtab %}
 {% endtabs %}
 
-
-
 #### 🧩 User Commands
 
 {% tabs %}
@@ -197,7 +195,7 @@ dc!modmail close
 {% endtab %}
 {% endtabs %}
 
-#### 👨✈ Glimpse Of Features
+#### 👨✈ User Commands
 
 {% tabs %}
 {% tab title="Pause " %}
@@ -223,10 +221,8 @@ dc!modmail close <reason/blank>
 
 #### There Are Two Types of Config :-
 
-1. Auto : Jericho will Give the Description and in - future you can also Edit/Delete.
-2. Manual : You can Write your Own Message or Any Other Bot's Message , Just Mention the Message ID.
-
-#### ✨ Commands
+1. **Auto : Jericho will Give the Description and in - future you can also Edit/Delete .**
+2. **Manual : You can Write your Own Message or Any Other Bot's Message , Just Mention the Message ID.**
 
 {% tabs %}
 {% tab title="Setup" %}
