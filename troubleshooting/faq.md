@@ -4,7 +4,7 @@ description: Frequently Asked Questions related to Jericho Bot
 
 # FAQ
 
-## Can I become who I want to be?
+## 
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
