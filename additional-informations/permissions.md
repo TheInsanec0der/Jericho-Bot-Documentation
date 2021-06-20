@@ -76,6 +76,7 @@
 * **`Embed Links`**
 * **`Manage Messages`**
 * **`Add Reactions`**
+* **`Manage Webhooks (if needed)`**
 
 
 
