@@ -27,4 +27,5 @@
 * [Unable to Invite ?](troubleshooting/unable-to-invite.md)
 * [FAQ](troubleshooting/faq.md)
 * [Get Support](troubleshooting/get-support.md)
+* [Getting Server ID](troubleshooting/getting-server-id.md)
 
