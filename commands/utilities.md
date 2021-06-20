@@ -124,7 +124,7 @@ dc!suggest check Server
 
 {% tab title="Edit" %}
 ```text
-dc!suggest edi
+dc!suggest edit
 ```
 {% endtab %}
 
@@ -146,8 +146,10 @@ dc!suggest submit
 
 {% tab title="Check Records" %}
 ```text
-dc!suggest records
+dc!suggest records <Blank/Server>
 ```
+
+![Glimpse of Suggestion Command](../.gitbook/assets/capture%20%282%29.png)
 {% endtab %}
 
 {% tab title="Check Status" %}
@@ -229,6 +231,8 @@ dc!modmail close <reason/blank>
 ```text
 dc!reactions setup <auto/manual>
 ```
+
+![Glimpse of Reaction Roles ! ](../.gitbook/assets/capture%20%283%29.png)
 {% endtab %}
 
 {% tab title="Delete" %}
