@@ -16,7 +16,9 @@ _Jericho is a Multi-Purpose Bot , which aims to achieve to be the Human Satisfac
 
 _Jericho is Discord Verified like on 24th April 2021 and has been Certified as Safe and Functional from Many Botlists including Top.gg . And Btw Jericho never Stores Data secretly ! And You have the Right to Delete your Data and Edit . We never meant to hamper your Privacy or your Server's ._
 
-\_\_
+{% hint style="info" %}
+**Jericho Based Mostly on`JavaScript , Mysql , Typescript , Eris , JSON` and many more...**
+{% endhint %}
 
 ### Types of Category
 

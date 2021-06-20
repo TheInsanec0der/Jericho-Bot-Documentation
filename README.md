@@ -23,10 +23,6 @@ Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Playe
 * ⚒ **`Have One of the Best User  Interface`**
 * ⚒ **`Non - Opensource Github Source Code`**
 
-{% hint style="info" %}
-**Jericho Based Mostly on`JavaScript , Mysql , Typescript , Eris , JSON` and many more...**
-{% endhint %}
-
 ### Key Features/Utilities :
 
 * \*\*\*\*🔰 **24/7 Music Player with Stage Channel Supported**
@@ -37,8 +33,4 @@ Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Playe
 * 🔰**Reaction Roles with Multiple Options** 
 * 🔰**260+ Game Server Status with Auto-Update Feature**
 * 🔰**And Many More...**
-
-{% hint style="info" %}
-**Help Command Panel -`dc!help`**
-{% endhint %}
 
