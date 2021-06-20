@@ -12,26 +12,26 @@ Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Playe
 
 ### **Basic Information :**
 
-* ⚒ Main npm Package/Library - **`discord.js v12.5.3`**
-* ⚒ Database Used - **`Mysql Database`**
-* ⚒ Bot Hosted Location - **`United States America`**
-* ⚒ Average Uptime - **`24/7`**
-* ⚒ Certified by - **`14+ Famous Botlists`**
-* ⚒ Commands - **`400+ Commands`**
-* ⚒**`Discord Verified Bot`**
-* ⚒ Bot Feature Sections - **`+12 Sections`**
-* ⚒ **`Have One of the Best User  Interface`**
-* ⚒ **`Non - Opensource Github Source Code`**
-* ⚒ **`Non - Profit Discord Bot`**
+* ⚒ **Main npm Package/Library - `discord.js v12.5.3`**
+* \*\*\*\*⚒ **Database Used - `Mysql Database`**
+* \*\*\*\*⚒ **Bot Hosted Location - `United States America`**
+* \*\*\*\*⚒ **Average Uptime - `24/7`**
+* \*\*\*\*⚒ **Certified by - `14+ Famous Botlists`**
+* \*\*\*\*⚒ **Commands - `400+ Commands`**
+* \*\*\*\*⚒**`Discord Verified Bot`**
+* \*\*\*\*⚒ **Bot Feature Sections - `+12 Sections`**
+* \*\*\*\*⚒ **`Have One of the Best User  Interface`**
+* \*\*\*\*⚒ **`Non - Opensource Github Source Code`**
+* \*\*\*\*⚒ **`Non - Profit Discord Bot`**
 
 ### Key Features/Utilities :
 
 * \*\*\*\*🔰 **24/7 Music Player with Stage Channel Supported**
-* 🔰**Announcement Creator with Full-Ultimate Customization**
-* 🔰**Suggestion Logger with Full Customization**
-* 🔰**Mod Mail Manager** 
-* 🔰**A.I. Chatting Feature**
-* 🔰**Reaction Roles with Multiple Options** 
-* 🔰**260+ Game Server Status with Auto-Update Feature**
-* 🔰**And Many More...**
+* \*\*\*\*🔰**Announcement Creator with Full-Ultimate Customization**
+* \*\*\*\*🔰**Suggestion Logger with Full Customization**
+* \*\*\*\*🔰**Mod Mail Manager** 
+* \*\*\*\*🔰**A.I. Chatting Feature**
+* \*\*\*\*🔰**Reaction Roles with Multiple Options** 
+* \*\*\*\*🔰**260+ Game Server Status with Auto-Update Feature**
+* \*\*\*\*🔰**And Many More...**
 
