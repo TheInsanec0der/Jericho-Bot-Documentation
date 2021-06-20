@@ -1,27 +1,17 @@
 # Permissions Logger
 
-## Getting Super Powers
+## 🔒 PERMISSION MENU
 
-Becoming a super hero is a fairly straight forward process:
+1.   **Basic/Normal Commands**
+2.  **Announcement Command**
+3.  **Avatar Commands**
+4.  **A.I. Chatting**
+5.  **Mod-Mail Commands**
+6.  **Music Player Commands**
+7.  **Reaction Roles Commands**
+8.  **Suggestion Logger Commands**
 
 
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 
