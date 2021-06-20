@@ -4,7 +4,7 @@ description: New to Jericho ? This page is perfect for you!
 
 # Getting Started
 
-## Jericho v0.4.6 Documentation
+## Jericho v0.4.5 Documentation
 
 Jericho is a Multipurpose Discord Bot with Cool Features like - 24/7 Music Player , Suggestion Logger , A.I. Chatting , Mod Mail , Announcement Creator .
 
