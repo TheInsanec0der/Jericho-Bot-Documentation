@@ -14,7 +14,6 @@
 * [Entertainment](commands/entertainment.md)
 * [Personals](commands/personals.md)
 * [Fun / Misc](commands/fun.md)
-* [Staff / Developers](commands/staff.md)
 * [Moderation](commands/moderation.md)
 
 ## Additional Information <a id="additional-informations"></a>
