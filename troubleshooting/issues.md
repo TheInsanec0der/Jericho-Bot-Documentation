@@ -10,11 +10,17 @@ description: >-
 
 {% tabs %}
 {% tab title="Desktop" %}
+1. **To start, open Discord and sign in. Once you’re signed in, select the settings icon in the bottom-left corner next to your username.**
+2. **In Discord’s settings menu, select the “Advanced” option in the menu on the left.**
+3. **Scroll down to the bottom, then select the slider next to the “Developer Mode” option. If the slider is green with a checkmark, developer mode is enabled. If it’s gray with an “X” symbol, developer mode is disabled.**
 
+![Desktop Developer Mode Toggle](../.gitbook/assets/devmode-toggle-android.png)
 {% endtab %}
 
 {% tab title="Mobile App" %}
+**On Android, you can enable Developer Mode by going to your Discord settings \(the next to your name at the bottom left\) and tap on** _**Behavior/Advanceded**_**. There you will find** _**Developer Mode**_**. Tap the toggle to enable it.**
 
+![Glimpse of Developer Mode Toggle](../.gitbook/assets/devmode-toggle-android%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
