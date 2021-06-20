@@ -21,6 +21,7 @@
 * [Permissions Logger](additional-informations/permissions.md)
 * [Partners](additional-informations/partners.md)
 * [Tutorials](additional-informations/tutorials.md)
+* [Our Team](additional-informations/team.md)
 
 ## TROUBLESHOOTING
 
