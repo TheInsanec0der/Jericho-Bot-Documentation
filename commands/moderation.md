@@ -1,4 +1,6 @@
 # Moderation
 
-💟 Comming Soon !
+## 💟 COMING SOON
+
+![](../.gitbook/assets/coming-soon.png)
 
