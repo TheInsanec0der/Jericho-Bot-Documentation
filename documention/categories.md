@@ -36,7 +36,7 @@ description: >-
 * [ ] **24/7 Radio Player**
 * [ ] **Youtube/Twitch Television**
 
-### 🛡Jericho's Personals
+### 🛡Jericho's Personals <a id="personals"></a>
 
 > _Jericho has some Commands which meant to Dealt with Jericho only and its not with any Discord Server . It's like Personal Commands ._
 
