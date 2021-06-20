@@ -1,4 +1,4 @@
 # Fun / Misc
 
-## 🌀 COMING SOON
+## 🌀 COMING SOON 🌀 
 
