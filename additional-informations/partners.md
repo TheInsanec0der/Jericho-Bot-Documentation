@@ -13,6 +13,6 @@ description: >-
 
 **Desrcription :** Want to start your **own** **Minecraft** M**ultiplayer** S**erver** or **Discord Bot** on a company that **cares** about its clients ? We provide `AMD Ryzen 5600x` \(over 20% faster than i9 9900k/3700x\) hosting with **unmetered CPU usage**, as low as **$1.99 a month \($0.99/GB\)** . Use code `50OFF` to get 50% off on your first order! \(excluding dedicated servers\) .  
   
-\[Main Website\]\([https://nixonodes.com/](https://nixonodes.com/)\)  
-\[Support Server\]\([https://discord.gg/tGRQ7esbZv](https://discord.gg/tGRQ7esbZv)\)
+\[Website\]\([https://nixonodes.com/](https://nixonodes.com/)\)  
+\[Support\]\([https://discord.gg/tGRQ7esbZv](https://discord.gg/tGRQ7esbZv)\)
 
