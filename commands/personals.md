@@ -38,7 +38,7 @@ dc!subscribe Status <ON/OFF> <Upvote/Maintenance/All>
 {% endtab %}
 {% endtabs %}
 
-## 💫Invite Command
+### 💫Invite Command
 
 > **You can Invite Jericho to your Server Easily with this Command.**
 
@@ -46,7 +46,7 @@ dc!subscribe Status <ON/OFF> <Upvote/Maintenance/All>
 dc!invite 
 ```
 
-## 💨Support Server Command
+### 💨Support Server Command
 
 > **A Community Server/Support Server is made for Jericho to clear doubts and help you to setup Status or Other Utilities.**
 
@@ -54,7 +54,7 @@ dc!invite
 dc!support
 ```
 
-## 💖Upvote Command
+### 💖Upvote Command
 
 > **Upvote Jericho in Various Websites.**
 
@@ -78,7 +78,7 @@ dc!upvote stats <UserID/@User-Name>
 {% endtab %}
 {% endtabs %}
 
-## 💢Stats Command
+### 💢Stats Command
 
 > **You can Setup Real - Time Update about Jericho or You can get the Update everytime you execute a simple Command.**
 
