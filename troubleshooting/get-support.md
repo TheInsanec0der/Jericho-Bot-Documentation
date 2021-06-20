@@ -1,8 +1,10 @@
 ---
-description: Want help ? or having issues. Feel free to ask us.
+description: >-
+  Want help ? or having issues. Feel Free to Reach us on Support Server or Forum
+  !
 ---
 
-# Get Support
+# Getting Support
 
 ## ✅ Support Server
 

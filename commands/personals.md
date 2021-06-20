@@ -33,7 +33,7 @@ dc!subscribe Status <ON/OFF> <Upvote/Maintenance/All>
 ```
 
 {% hint style="info" %}
- _Jericho's Upvote Subscription Status and Upvotes Calculation will Turn On After you Vote for Jericho on Top.gg._
+ _**Jericho's Upvote Subscription Status and Upvotes Calculation will Turn On After you Vote for Jericho on Top.gg.**_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -87,6 +87,8 @@ dc!upvote stats <UserID/@User-Name>
 ```text
 dc!stats
 ```
+
+![Example of Jericho Stats](../.gitbook/assets/capture%20%281%29.png)
 {% endtab %}
 
 {% tab title="Setup" %}
