@@ -124,7 +124,7 @@ dc!suggest check Server
 
 {% tab title="Edit" %}
 ```text
-dc!suggest edit
+dc!suggest edi
 ```
 {% endtab %}
 

@@ -2,14 +2,14 @@
 
 ## ☢ PERMISSIONS MENU
 
-### **Basic/Normal Commands**
+### \*\*\*\*🌈 **Basic/Normal Commands**
 
 * **`Send Messages`**
 * **`Use External Emojis`**
 * **`Read Message History`**
 * **`View Channels`**
 
-### **Announcement Command**
+### 🌈 **Announcement Command**
 
 * **`Send Messages`**
 * **`Use External Emojis`**
@@ -20,7 +20,7 @@
 * **`Mention Everyone (if needed)`**
 * **`Attach Files`**
 
-### **Avatar Commands**
+### 🌈 **Avatar Commands**
 
 * **`Send Messages`**
 * **`Read Message History`**
@@ -28,7 +28,7 @@
 * **`Embed Links`**
 * **`Attach Files (if needed)`**
 
-### **A.I. Chatting**
+### 🌈 **A.I. Chatting**
 
 * **`Send Messages`**
 * **`Read Message History`**
@@ -36,7 +36,7 @@
 * **`Embed Links`**
 * **`Manage Messages`**
 
-### **Mod-Mail Commands**
+### 🌈 **Mod-Mail Commands**
 
 * **`Send Messages`**
 * **`Read Message History`**
@@ -47,7 +47,7 @@
 * **`Manage Server (if needed)`**
 * **`Manage Webhooks (if needed)`**
 
-### **Music Player Commands**
+### 🌈 **Music Player Commands**
 
 * **`Read Message History`**
 * **`View Channels`**
@@ -58,7 +58,7 @@
 * **`Add Reactions`**
 * **`Send message`**
 
-### **Reaction Roles Commands**
+### 🌈 **Reaction Roles Commands**
 
 * **`Send Messages`**
 * **`Read Message History`**
@@ -68,7 +68,7 @@
 * **`Add Reactions`**
 * **`Manage Roles`**
 
-### **Suggestion Logger Commands**
+### 🌈 **Suggestion Logger Commands**
 
 * **`Send Messages`**
 * **`Read Message History`**
