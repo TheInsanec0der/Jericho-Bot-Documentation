@@ -110,3 +110,5 @@ all - `Delete All Configs for the Server`**
 {% endtab %}
 {% endtabs %}
 
+## 🎋 Radio Player 
+
