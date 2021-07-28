@@ -112,3 +112,25 @@ all - `Delete All Configs for the Server`**
 
 ## 🎋 Radio Player 
 
+Setup 24/7 Radio Player on your Server with Options of Many Radio Stations
+
+{% tabs %}
+{% tab title="Setup Radio Player" %}
+```text
+dc!music setup
+```
+{% endtab %}
+
+{% tab title="Delete Radio Player" %}
+```text
+dc!music delete <all>/<Voice>
+```
+{% endtab %}
+
+{% tab title="Edit Radio Player" %}
+```text
+dc!music edit <radio>
+```
+{% endtab %}
+{% endtabs %}
+
