@@ -134,3 +134,19 @@ dc!music edit <radio>
 {% endtab %}
 {% endtabs %}
 
+{% hint style="warning" %}
+ _Radio Player Commands are integrated with Music Player , to avoid massive Commands allocation_
+{% endhint %}
+
+## **🎢 Watch Party Command**
+
+Jericho will a Great Gateway for Youtube-Discord to Stream any Youtube Live Streams or Videos!!
+
+```text
+dc!watch create <Channel-ID>/<Blank>
+```
+
+{% hint style="info" %}
+ _Watch party will be Closed if you leave the Specified Voice Channel and Again Join with the Link will create the Watch party and Every member needs to Join with the Same Code for having a Group_**.**
+{% endhint %}
+
